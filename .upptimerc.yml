@@ -25,11 +25,6 @@ status-website:
   name: Qualimenti Uptime Monitoring
   introTitle: "Uptime monitoring page for Qualimenti websites"
   introMessage: Find below the list of our websites with live status updates
-  navbar:
-    - title: Status
-      href: /qualimenti-uptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 assignees:
   - enzoglt
