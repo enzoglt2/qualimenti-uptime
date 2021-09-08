@@ -11,8 +11,10 @@ sites:
   - name: Q-Events
     url: https://q-events.it
     icon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
-  - name: Proxy
+  - name: Nginx Proxy
+    check: "tcp-ping"
     url: $NGINX_PROXY
+    port: 81
     icon: https://nginxproxymanager.com/icon.png
 
 status-website:
