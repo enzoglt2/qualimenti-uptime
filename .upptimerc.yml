@@ -9,7 +9,7 @@ sites:
   - name: Q-Events
     url: https://q-events.it
   - name: test-down
-    url: https://asdfsdfsdfsdfsd.it
+    url: https://asdfsdfsssdfsdfsd.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
