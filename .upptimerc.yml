@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /qualimenti-uptime
-  logoUrl: https://shop.qualimenti.com/wp-content/uploads/2020/04/Qualimenti-RGB.jpg
+  logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/qualimenti-logo.jpg
   name: Qualimenti Uptime Monitoring
   introTitle: "Uptime monitoring page for Qualimenti websites"
   introMessage: Find below the list of our websites with live status updates
