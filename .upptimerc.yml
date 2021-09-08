@@ -27,7 +27,7 @@ status-website:
   introMessage: Find below the list of our websites with live status updates
   navbar:
     - title: Status
-      href: /
+      href: /qualimenti-uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
