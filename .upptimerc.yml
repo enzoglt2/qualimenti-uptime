@@ -16,9 +16,6 @@ sites:
     url: $NGINX_PROXY
     port: 81
     icon: https://nginxproxymanager.com/icon.png
-  - name: Test Site
-    url: https://nosite.qualimenti.com
-    icon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
 
 status-website:
   theme: dark
