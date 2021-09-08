@@ -4,10 +4,13 @@ repo: qualimenti-uptime # The name of this repository
 sites:
   - name: Shop Qualimenti
     url: https://shop.qualimenti.com
+    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
   - name: App Qualimenti
     url: https://app.qualimenti.com
+    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
   - name: Q-Events
     url: https://q-events.it
+    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
