@@ -11,10 +11,13 @@ sites:
   - name: Q-Events
     url: https://q-events.it
     icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
+  - name: Test Site
+    url: https://asudhahduhuh3331.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   baseUrl: /qualimenti-uptime
   logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/qualimenti-logo.jpg
   name: Qualimenti Uptime Monitoring
