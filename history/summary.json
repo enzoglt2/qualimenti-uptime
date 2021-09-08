@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 973,
-    "timeWeek": 973,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 606,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "time": 609,
+    "timeDay": 609,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 1149,
-    "timeWeek": 1149,
-    "timeMonth": 1149,
-    "timeYear": 1149,
+    "time": 1164,
+    "timeDay": 1164,
+    "timeWeek": 1164,
+    "timeMonth": 1164,
+    "timeYear": 1164,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Site",
+    "url": "https://asudhahduhuh3331.it",
+    "icon": "https://favicons.githubusercontent.com/asudhahduhuh3331.it",
+    "slug": "test-site",
+    "status": "down",
+    "uptime": "16.74%",
+    "uptimeDay": "16.74%",
+    "uptimeWeek": "16.74%",
+    "uptimeMonth": "16.74%",
+    "uptimeYear": "16.74%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-09-08": 0
+    }
   }
 ]
