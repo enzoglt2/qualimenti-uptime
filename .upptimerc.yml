@@ -1,5 +1,5 @@
-owner: enzoglt # Your GitHub organization or username, where this repository lives
-repo: qualimenti-uptime # The name of this repository
+owner: enzoglt
+repo: qualimenti-uptime
 
 sites:
   - name: Shop Qualimenti
@@ -13,8 +13,6 @@ sites:
     icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: dark
   baseUrl: /qualimenti-uptime
   logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-logo.svg
