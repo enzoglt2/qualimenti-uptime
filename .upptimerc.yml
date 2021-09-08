@@ -15,8 +15,8 @@ status-website:
   baseUrl: /qualimenti-uptime
   logoUrl: https://shop.qualimenti.com/wp-content/uploads/2020/04/Qualimenti-RGB.jpg
   name: Qualimenti Uptime Monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime monitoring page for Qualimenti websites"
+  introMessage: Find below the list of our websites with live status updates
   navbar:
     - title: Status
       href: /
