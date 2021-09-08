@@ -4,16 +4,17 @@ repo: qualimenti-uptime
 sites:
   - name: Shop Qualimenti
     url: https://shop.qualimenti.com
-    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
+    icon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
   - name: App Qualimenti
     url: https://app.qualimenti.com
-    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
+    icon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
   - name: Q-Events
     url: https://q-events.it
-    icon: https://shop.qualimenti.com/wp-content/uploads/2020/04/favicon-01.png
+    icon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
 
 status-website:
   theme: dark
+  favicon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
   baseUrl: /qualimenti-uptime
   logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-logo.svg
   name: Qualimenti Uptime Monitoring
