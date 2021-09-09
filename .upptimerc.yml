@@ -18,11 +18,11 @@ sites:
     icon: https://nginxproxymanager.com/icon.png
 
 status-website:
-  name: Qualimenti Uptime Monitoring
   baseUrl: /
+  logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-logo.svg
+  name: Qualimenti Uptime Monitoring
   theme: dark
   favicon: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png
-  logoUrl: https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-logo.svg
   introTitle: "Uptime monitoring page for Qualimenti websites"
   introMessage: Find below the list of our websites with live status updates
 
