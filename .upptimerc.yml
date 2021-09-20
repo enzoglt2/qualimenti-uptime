@@ -16,8 +16,6 @@ sites:
     url: $NGINX_PROXY
     port: 81
     icon: https://nginxproxymanager.com/icon.png
-  - name: Test
-    url: https://test.qualimenti.com
 
 status-website:
   baseUrl: /qualimenti-uptime
