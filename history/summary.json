@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png",
     "slug": "shop-qualimenti",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1006,
     "timeDay": 689,
     "timeWeek": 1101,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2021-09-24": 2
+      "2021-09-24": 35
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://q-events.it",
     "icon": "https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png",
     "slug": "q-events",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1233,
-    "timeDay": 1223,
-    "timeWeek": 1263,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1551,
+    "timeDay": 9350,
+    "timeWeek": 2885,
+    "timeMonth": 1551,
+    "timeYear": 1551,
     "dailyMinutesDown": {
-      "2021-09-24": 0
+      "2021-09-24": 33
     }
   },
   {
