@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1007,
-    "timeDay": 985,
-    "timeWeek": 1075,
-    "timeMonth": 1000,
-    "timeYear": 1007,
+    "time": 1009,
+    "timeDay": 1205,
+    "timeWeek": 1098,
+    "timeMonth": 1006,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2021-09-24": 54
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 608,
-    "timeDay": 587,
-    "timeWeek": 670,
+    "time": 609,
+    "timeDay": 735,
+    "timeWeek": 683,
     "timeMonth": 621,
-    "timeYear": 608,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2021-10-28": 29
     }
@@ -45,16 +45,16 @@
     "icon": "https://raw.githubusercontent.com/enzoglt/qualimenti-uptime/master/assets/quali-favicon.png",
     "slug": "q-events",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1377,
-    "timeDay": 1163,
-    "timeWeek": 1297,
-    "timeMonth": 1247,
-    "timeYear": 1377,
+    "uptimeYear": "99.98%",
+    "time": 1379,
+    "timeDay": 1639,
+    "timeWeek": 1347,
+    "timeMonth": 1261,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2021-09-24": 33
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 140,
-    "timeWeek": 146,
+    "timeDay": 160,
+    "timeWeek": 149,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {}
