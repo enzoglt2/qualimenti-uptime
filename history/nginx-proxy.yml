@@ -1,7 +1,7 @@
 url: $NGINX_PROXY
 status: up
 code: 200
-responseTime: 158
-lastUpdated: 2022-04-07T23:16:00.810Z
+responseTime: 135
+lastUpdated: 2022-04-08T23:15:46.909Z
 startTime: Wed Sep 08 2021 16:09:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
