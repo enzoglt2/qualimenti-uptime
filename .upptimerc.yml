@@ -1,4 +1,4 @@
-owner: enzoglt
+owner: enzoglt2
 repo: qualimenti-uptime
 
 sites:
@@ -27,4 +27,4 @@ status-website:
   introMessage: Find below the list of our websites with live status updates
 
 assignees:
-  - enzoglt
+  - enzoglt2
